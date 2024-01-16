@@ -1,0 +1,26 @@
+{
+  "name": "pixel-snapper",
+  "version": "1.0.1",
+  "description": "Pixel snapper a Node.js utility for capturing full-page screenshots of web pages programmatically. Built on top of Puppeteer, it provides an easy-to-use API that can be integrated into any Node.js application, including Express.js backends and React.js frontends. This package handles the complexities of URL validation and filename generation and allows for custom page manipulations before screenshot capture. Whether for archiving, testing, or generating previews, TakeScreenshot offers a high-level approach to browser automation and screenshot generation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pixel-snapper",
+    "puppeteer",
+    "screenshot",
+    "nodejs-utility",
+    "webpage-capture",
+    "full-page-screenshot",
+    "website-screenshot",
+    "URL-validation",
+    "headless-browser",
+    "expressjs"
+  ],
+  "author": "Himanshu Dhiraj Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.7.0"
+  }
+}
